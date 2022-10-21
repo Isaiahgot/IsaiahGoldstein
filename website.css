@@ -1,0 +1,24 @@
+body{
+  background-color: beige;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+header {
+    color: darkolivegreen;
+    font-family: fantasy;
+    font-size: larger;
+}
+h1{
+  color: brown;
+  font-family: monospace;
+  font-size: larger;
+}
+h2{
+    color: coral;
+    font-family: monospace;
+    font-size: larger;
+  }
+.col{
+    color: mediumblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
